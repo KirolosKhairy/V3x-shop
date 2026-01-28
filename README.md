@@ -2,7 +2,7 @@
 
 [![Live Demo](https://img.shields.io/badge/Live-Demo-brightgreen)](https://kiroloskhairy.com/V3x-shop/)
 
-![V3x Shop Preview](assets/preview.png)
+![V3x Shop Preview](preview.PNG)
 
 Frontend mini e-commerce project with product categories, wishlist (favorites), and shopping cart using `localStorage`.
 
